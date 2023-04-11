@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://shivamvbomble.wixsite.com/bloggershivam](https://shivamvbomble.wixsite.com/bloggershivam)
 
-- 💬 Ask me about **Python, R, Java**
+- 💬 Ask me about **Python, R, Java, MySql, DBMS**
 
 - 📫 How to reach me **shivamvbomble@gmail.com**
 
