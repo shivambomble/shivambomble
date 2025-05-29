@@ -12,12 +12,13 @@ Welcome to my GitHub profile. I am an enthusiastic professional in the field of 
 - **Programming Languages:** Java, Python, R
 - **Data Technologies:** MongoDB, SQL, Neo4j, Tableau
 - **Machine Learning Frameworks:** TensorFlow, Keras, Scikit-learn, PyTorch
+- **Cloud Technology:** AWS
 
 ## 🌱 Currently Learning
 I'm currently diving deeper into:
-- Advanced Machine Learning algorithms
 - Deep Learning techniques
 - Data Engineering concepts
+- Cloud Services and Technologies
 
 ## 🎮 Interests
 When I’m not coding, I enjoy playing sports like cricket and football. Sports fuel my strategic thinking, problem-solving, and team-bonding skills!
